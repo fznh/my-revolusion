@@ -1,0 +1,7 @@
+Fzn Revolusion
+- finish all course of JavaScript
+- learn git and gitHub
+- learn ReactJS
+- learn Tailwind
+- learn basic of PHP
+- learn basic of Laravel
