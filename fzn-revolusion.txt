@@ -5,3 +5,4 @@ Fzn Revolusion
 - learn Tailwind
 - learn basic of PHP
 - learn basic of Laravel
+- learn ReactJS to expert level
