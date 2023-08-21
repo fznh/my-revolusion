@@ -1,8 +1,8 @@
 Fzn Revolusion
 - finish all course of JavaScript
 - learn git and gitHub
-- learn ReactJS
-- learn Tailwind
 - learn basic of PHP
-- learn basic of Laravel
 - learn ReactJS to expert level
+- learn TailwindCSS to expert level
+- learn Laravel to expert level
+- learn Laravel with React on one project
