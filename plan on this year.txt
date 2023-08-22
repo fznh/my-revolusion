@@ -1,0 +1,4 @@
+My Plan on this year
+
+- Understand to use git
+- Understand to use Laravel and React on one project
