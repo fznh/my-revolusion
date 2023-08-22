@@ -2,3 +2,5 @@ My Plan on this year
 
 - Understand to use git
 - Understand to use Laravel and React on one project
+* Make a Website with laravel and React then try to hosting it
+  - Got a team to make these website
